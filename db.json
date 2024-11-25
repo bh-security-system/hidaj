@@ -1,6 +1,8 @@
 {
   "address": [
     {
+      "postN": "https://app.hidajnet.cloud//postN.php",
+      "getN": "https://app.hidajnet.cloud/getN.php",
       "post": "https://app.hidajnet.cloud//post.php",
       "get": "https://app.hidajnet.cloud/get.php",
       "server": "https://app.hidajnet.cloud/server_none.png",
